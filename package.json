@@ -1,6 +1,6 @@
 {
   "name": "zmkdirp",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "zeen3's mkdirp subtype",
   "main": "index.js",
   "scripts": {
