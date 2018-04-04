@@ -1,0 +1,25 @@
+{
+  "name": "zmkdirp",
+  "version": "2.0.0",
+  "description": "zeen3's mkdirp subtype",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZaneHannanAU/zmkdirp.git"
+  },
+  "keywords": [
+    "mkdir",
+    "fs",
+    "mkdirp",
+    "chmod"
+  ],
+  "author": "zeen3",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ZaneHannanAU/zmkdirp/issues"
+  },
+  "homepage": "https://github.com/ZaneHannanAU/zmkdirp#readme"
+}
